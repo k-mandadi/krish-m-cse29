@@ -2,8 +2,6 @@
 ## This is a heading but smaller
 
 >This is a blockquote
->
-
 >This is more blockquote
 >
 
